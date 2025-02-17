@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 Finance student passionate about AI and tech, exploring workflow automation and BI/dashboarding to deliver financial insights. Mainly working with Python, started 3 years ago with it. But learning every time!
+
 <!--
 **NickNL90/NickNL90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
